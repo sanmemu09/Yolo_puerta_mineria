@@ -1,6 +1,11 @@
 # Sistema de Control de Acceso - UPB
 Sistema de reconocimiento facial para control de acceso a puertas, desarrollado con YOLO, MTCNN y FaceNet.
 
+Realizado por:
+   -Santiago Mendoza Muñoz
+   -Camilo Armenta
+   -Valentina Rendon
+   
 ---
 
 ## Requisitos del sistema
